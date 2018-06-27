@@ -1,0 +1,11 @@
+.hotelBackground{
+    background: url("https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/singapore/marina-bay-sands-exterior.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar > .logo-color{
+    background: orange;
+    color: white;
+}
